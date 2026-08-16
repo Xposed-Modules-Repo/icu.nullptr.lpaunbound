@@ -1,0 +1,1 @@
+Allows a platform-signed LPA installed under /data/app to participate in LPA selection without mounting files into a system partition.
